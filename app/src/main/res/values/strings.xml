@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">U Task</string>
+    <string name="tasks">Tasks</string>
+    <string name="completed">Completed</string>
+    <string name="add_task">Add Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="url">URL (optional)</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="mark_complete">Mark Complete</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="open_url">Open URL</string>
+    <string name="no_tasks">No tasks yet</string>
+    <string name="no_completed_tasks">No completed tasks yet</string>
+</resources>
